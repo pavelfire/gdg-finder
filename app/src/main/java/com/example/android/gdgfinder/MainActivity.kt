@@ -10,7 +10,7 @@ import androidx.navigation.ui.NavigationUI.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.android.gdgfinder.databinding.ActivityMainBinding
-
+//https://material.io
 class MainActivity : AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
