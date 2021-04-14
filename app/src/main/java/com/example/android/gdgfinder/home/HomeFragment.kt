@@ -11,7 +11,7 @@ import androidx.navigation.Navigation.findNavController
 import androidx.navigation.fragment.findNavController
 import com.example.android.gdgfinder.R
 import com.example.android.gdgfinder.databinding.HomeFragmentBinding
-
+//https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=FF9800
 class HomeFragment : Fragment() {
 
     companion object {
